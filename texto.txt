@@ -1,0 +1,8 @@
+PROYECTO N1 
+}}}}}}}}}}}}}}}}}}}}}}}}}
+El punto blanco significa que hay cambios 
+Save: Ctrl S
+Si el auto save esta activado no aparece el punto blanco 
+Realizar siempre respaldo en la web 
+++++++++++++++++++++++++++++++++
+Si aparece una linea verde significa que no esta sincronizado en la nube 
